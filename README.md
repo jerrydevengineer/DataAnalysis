@@ -1,3 +1,3 @@
 # DataAnalysis
 
-## knou opensource data analysus
+## knou opensource data analysis
